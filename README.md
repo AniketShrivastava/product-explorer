@@ -63,9 +63,6 @@ The application fetches products from a public API, supports filtering, sorting,
   - Client-side pagination
   - Works seamlessly with filters & sorting
 
--  **Dark / Light Mode**
-  - Tailwind class-based dark mode
-  - Persisted in localStorage
 
 -  **Basic Accessibility**
   - Semantic HTML
